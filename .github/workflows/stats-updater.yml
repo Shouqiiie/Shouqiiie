@@ -1,0 +1,19 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Menjalankan setiap jam untuk memperbarui data
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
