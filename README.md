@@ -36,6 +36,5 @@ I believe in writing clean code, solving real problems, and constantly pushing m
 
 ---
 
-## 📫 Let's Connect!
-- ✉️ Email: [mshouqi08@gmail.com](mailto:mshouqi08@gmail.com)  
-- 💼 LinkedIn: [Muhammad Shouqi](https://www.linkedin.com/in/muhammad-shouqi-b1b958338/)  
+📫 Reach me at: **mshouqi08@gmail.com**  
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/muhammad-shouqi-b1b958338/) 
