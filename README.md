@@ -44,14 +44,6 @@
 
 ---
 
-## 💻 My Top Languages
-
-<p align="center">
-  <img src="stats.svg" alt="GitHub Stats" />
-</p>
-
----
-
 ### 📫 Reach Me
 
 <p align="left">
