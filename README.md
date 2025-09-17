@@ -1,20 +1,29 @@
-# 👋 Hey there, I'm Shouqi!  
+<h1 align="center">👋 Hey there, I'm Shouqi!</h1>
+<h3 align="center">A passionate Web Developer who loves turning ideas into interactive web applications.</h3>
 
-💻 A passionate **Web Developer** who loves turning ideas into interactive web applications.  
-Fueled by curiosity and creativity, I build **scalable, dynamic, and user-friendly** solutions using modern web technologies.  
-I believe in writing clean code, solving real problems, and constantly pushing my limits 🚀  
+---
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shouqiiie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shouqi's GitHub Stats" />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shouqiiie&theme=tokyonight" alt="Shouqi's Trophies" />
+  </a>
+</p>
 
 ---
 
 ## 🌟 About Me
-- 🔭 Currently focusing on **backend development** with Node.js & Express  
-- 🌱 Learning more about **system design & full-stack integration**  
-- 🤝 Open to collaborating on exciting web projects  
-- 🎯 Goal: To grow as a **Full-Stack Developer** and build impactful products  
+
+- 🔭 Currently focusing on **backend development** with Node.js & Express
+- 🌱 Learning more about **system design & full-stack integration**
+- 🤝 Open to collaborating on exciting web projects
+- 🎯 Goal: To grow as a **Full-Stack Developer** and build impactful products 🚀
 
 ---
 
-## 🚀 My Tech Stack:
+## 🚀 My Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -35,10 +44,21 @@ I believe in writing clean code, solving real problems, and constantly pushing m
 
 ---
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shouqiiie&show_icons=true&theme=radical" alt="Shouqi's GitHub Stats" /> <img src="https://github-readme-stackoverflow.vercel.app/?userID=youruserid&theme=dark" alt="Shouqi's Stack Overflow Stats" /> </p>
+## 💻 My Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shouqiiie&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-📫 Reach me at: **mshouqi08@gmail.com**  
-🔗 Connect on [LinkedIn](https://www.linkedin.com/in/muhammad-shouqi-b1b958338/) 
+### 📫 Reach Me
+
+<p align="left">
+  <a href="mailto:mshouqi08@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-shouqi-b1b958338/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
