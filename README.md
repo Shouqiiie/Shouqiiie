@@ -5,9 +5,7 @@
 
 <p align="center">
   <p align="center">
-  <img src="https://img.shields.io/github/followers/Shouqiiie?style=for-the-badge&logo=github&color=0077B5" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Shouqiiie?style=for-the-badge&logo=github&color=FFD700" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/repos-public/Shouqiiie?style=for-the-badge&logo=github&color=586069" alt="Public Repositories" />
 </p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Shouqiiie&theme=tokyonight" alt="Shouqi's Trophies" />
@@ -49,8 +47,7 @@
 ## 💻 My Top Languages
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/Shouqiiie/YOUR_TOP_REPO?style=for-the-badge&logo=javascript&logoColor=white&label=JavaScript" />
-  <img src="https://img.shields.io/github/languages/top/Shouqiiie/ANOTHER_REPO?style=for-the-badge&logo=php&logoColor=white&label=PHP" />
+  <img src="stats.svg" alt="GitHub Stats" />
 </p>
 
 ---
