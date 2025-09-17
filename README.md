@@ -4,9 +4,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shouqiiie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shouqi's GitHub Stats" />
-  </a>
+  <p align="center">
+  <img src="https://img.shields.io/github/followers/Shouqiiie?style=for-the-badge&logo=github&color=0077B5" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Shouqiiie?style=for-the-badge&logo=github&color=FFD700" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/repos-public/Shouqiiie?style=for-the-badge&logo=github&color=586069" alt="Public Repositories" />
+</p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Shouqiiie&theme=tokyonight" alt="Shouqi's Trophies" />
   </a>
@@ -47,7 +49,8 @@
 ## 💻 My Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shouqiiie&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/github/languages/top/Shouqiiie/YOUR_TOP_REPO?style=for-the-badge&logo=javascript&logoColor=white&label=JavaScript" />
+  <img src="https://img.shields.io/github/languages/top/Shouqiiie/ANOTHER_REPO?style=for-the-badge&logo=php&logoColor=white&label=PHP" />
 </p>
 
 ---
